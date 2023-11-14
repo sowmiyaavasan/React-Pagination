@@ -1,2 +1,2 @@
 # React-Pagination
-Created with CodeSandbox
+A mini app that illustrates "pagination" coded in react
